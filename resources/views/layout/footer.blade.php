@@ -38,7 +38,7 @@
 	<div class="container">
 		<div class="row footer-text">
 			<div class="col-md-5">
-				<p>@All Right 2018 With meroIntern</p>
+				<!-- <p>@All Right 2018 With meroIntern</p> -->
 			</div>
 			<div class="col-md-3 footer-logo">
 				<img src="{{asset('images/logo/logo.png')}}">
